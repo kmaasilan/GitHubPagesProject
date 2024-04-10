@@ -10,6 +10,7 @@
 > probably *Elden Ring*. My favorite drink is Sprite, and a fun fact about me is that I'm a 
 > transfer student. I transferred to UCSD from Diablo Valley College which is much closer to Livermore
 > where my parents live. In fact, it takes roughly **8 hours** to drive from San Diego to Livermore.
+
 ## About Me (Programming Edition)
 Currently, I program primarily in C++. However, in high school, I coded my first projects with C# 
 in Microsoft Visual Studio!\
@@ -43,8 +44,8 @@ My first projects (in sequential order)
         valLis.append(y)
    ```
    What is b? What is q? What did I mean by this ... \
-   THE HORROR!\
-5. In community college, I made an elevator simulator with the help of the professor as a class project.
+   THE HORROR!
+4. In community college, I made an elevator simulator with the help of the professor as a class project.
 ### Project To-Do List
 - [ ] Super Secret Programming Project :)
 - [ ] polynomial time algorithm for 3SAT
