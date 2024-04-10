@@ -1,6 +1,7 @@
 # Maasilan's Page
 ![halfMoonBay](halfMoonBay.JPG)
-> _A picture I took at Half Moon Bay._
+> _A picture I took at Half Moon Bay._ 
+
 ## About Me
 ***Hello!***
 > My name is Maasilan Kumaraguru, and I'm a junior at UCSD.
