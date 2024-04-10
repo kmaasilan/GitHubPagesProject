@@ -46,9 +46,11 @@ My first projects (in sequential order)
    What is b? What is q? What did I mean by this ... \
    THE HORROR!
 4. In community college, I made an elevator simulator with the help of the professor as a class project.
+
 ### Project To-Do List
 - [ ] Super Secret Programming Project :)
 - [ ] polynomial time algorithm for 3SAT
+
 ### All of the programming courses I've taken at UCSD so far ... 
 [This](https://catalog.ucsd.edu/courses/CSE.html) is a link to the UCSD CSE course catalog. The CSE course catalog gives a brief summary of 
 the topics covered in any given UCSD CSE course. A brief summary of all the courses below is 
